@@ -34,7 +34,7 @@ const Footer = () => {
 								placeholder=""
 							/>
 							<button
-								class="bg-white mt-1 h-8 px-3 font-bold rounded text-black font-normal absolute -ml-28"
+								className="bg-white mt-1 h-8 px-3 font-bold rounded text-black font-normal absolute -ml-28"
 								type="button"
 							>
 								SUBSCRIBE

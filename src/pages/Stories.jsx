@@ -107,7 +107,7 @@ const Stories = () => {
               </div>
               <Link to="/thank-you">
                 <button
-                  class="float-right bg-button-color mt-6 md:mt-12 w-40 h-12 rounded-lg text-white font-normal"
+                  className="float-right bg-button-color mt-6 md:mt-12 w-40 h-12 rounded-lg text-white font-normal"
                   type="button"
                 >
                   Share your story!

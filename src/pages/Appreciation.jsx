@@ -22,7 +22,7 @@ const Appreciation = () => {
           </p>
           <Link to="/">
           <button
-            class="bg-button-color mt-6 w-40 h-12 rounded-lg text-white font-normal"
+            className="bg-button-color mt-6 w-40 h-12 rounded-lg text-white font-normal"
             type="button"
           >
               Close

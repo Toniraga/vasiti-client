@@ -12,23 +12,23 @@ const Nav = () => {
         <div className="md:flex hidden text-sm mt-10 ml-auto mr-44">
           <div className="self-center flex">
             <Link to="/">
-              <a href="/" className="mx-9">
+              <div to="/" className="mx-9">
                 ABOUT US
-              </a>
+              </div>
             </Link>
 
             <Link to="/stories">
-              <a href="/" className="mr-9">STORIES</a>
+              <div to="/" className="mr-9">STORIES</div>
             </Link>
             <Link to="/">
-              <a href="/"  className="mr-9">CONTACT US</a>
+              <div to="/"  className="mr-9">CONTACT US</div>
             </Link>
             <Link to="/">
-              <a href="/" className="mr-2">LOGIN</a>
+              <div to="/" className="mr-2">LOGIN</div>
             </Link>
           </div>
           <button
-            class="bg-button-color w-20 h-6 mt-2 rounded-lg text-white"
+            className="bg-button-color w-20 h-6 mt-2 rounded-lg text-white"
             type="button"
           >
             SIGN UP

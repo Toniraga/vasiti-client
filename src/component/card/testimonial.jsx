@@ -4,6 +4,7 @@ import aimg from '../../assets/images/1.svg';
 
 const data = [
   {
+    id: 1,
     img: aimg,
     name: "Joseph Ike",
     location: "in ikeja",
@@ -13,6 +14,7 @@ const data = [
       "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.",
   },
   {
+    id: 2,
     img: man,
     name: "Adetola Fashina",
     location: "Ibadan",
@@ -21,6 +23,7 @@ const data = [
       "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.",
   },
   {
+    id: 3,
     img: man,
     name: "Emmanuel Fayemi",
     location: "in Akoka",
@@ -30,6 +33,7 @@ const data = [
       "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.",
   },
   {
+    id: 4,
     img: man,
     name: "Chisom Obilor",
     location: "In Magodo",
@@ -39,6 +43,7 @@ const data = [
       "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.",
   },
   {
+    id: 5,
     img: man,
     name: "Adunoluwa Adeyemi",
     location: "Iwo Road",
@@ -48,6 +53,7 @@ const data = [
       "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.",
   },
   {
+    id: 6,
     img: man,
     name: "Chidi Okeke",
     location: "In Somolu",
